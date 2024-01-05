@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+}
+.full-width{
+    width: 100%;
+}
+.spacer3{
+    margin-top:3%;
+}
+section{
+    margin-bottom: 3%;
+}
+.dis-div {
+    margin-bottom: 3%;
+}
+a{
+    color: inherit;
+    text-decoration:none;
+}
+.dis-div a{
+    color: #000;
+}
+.copyright{
+    background: #000;
+    color: #ccc;
+    margin-bottom: 0px;
+
+}
