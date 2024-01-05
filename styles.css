@@ -26,3 +26,9 @@ a{
     margin-bottom: 0px;
 
 }
+.banner-sec{
+    background-image: url(images/banner1.jpg);
+    background-position: center center;
+    background-size: cover;
+    height: 450px;
+}
